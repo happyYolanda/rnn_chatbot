@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hacker/chatbot_manu/chatbot-rnn/check/mymodel.tflearn"
+all_model_checkpoint_paths: "/home/hacker/chatbot_manu/chatbot-rnn/check/mymodel.tflearn"
